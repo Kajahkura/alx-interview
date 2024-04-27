@@ -1,1 +1,1 @@
-<h1>Palcal's Triangle and Python algorithms</h1>
+<h1>Pascal's Triangle and Python algorithms</h1>
