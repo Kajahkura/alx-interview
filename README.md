@@ -1,1 +1,1 @@
-<h1>Pascal's Triangle and Python Algorithm</h1>
+<h1>Algorithms and Interview preparations</h1>
